@@ -1,0 +1,10 @@
+C:/Users/N0825554/Projects/MainProject_Serialization/bin/Debug/MainProject_Serialization.exe.config
+C:/Users/N0825554/Projects/MainProject_Serialization/bin/Debug/MainProject_Serialization.exe
+C:/Users/N0825554/Projects/MainProject_Serialization/bin/Debug/MainProject_Serialization.pdb
+C:/Users/N0825554/Projects/MainProject_Serialization/obj/Debug/MainProject_Serialization.csprojAssemblyReference.cache
+C:/Users/N0825554/Projects/MainProject_Serialization/obj/Debug/MainProject_Serialization.csproj.CoreCompileInputs.cache
+C:/Users/N0825554/Projects/MainProject_Serialization/obj/Debug/MainProject_Serialization.exe
+C:/Users/N0825554/Projects/MainProject_Serialization/obj/Debug/MainProject_Serialization.pdb
+/Volumes/ALICIA/MainProject_Serialization/obj/Debug/MainProject_Serialization.csprojAssemblyReference.cache
+/Volumes/ALICIA/MainProject_Serialization/obj/Debug/MainProject_Serialization.exe
+/Volumes/ALICIA/MainProject_Serialization/obj/Debug/MainProject_Serialization.pdb
