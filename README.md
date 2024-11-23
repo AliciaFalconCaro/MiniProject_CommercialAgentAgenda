@@ -1,4 +1,4 @@
-This mini-project helps organize and automate customer visits for a commercial agent.
+This mini-project helps organize and automate customer visits for a commercial agent. It was created as part of a coursework for a Software Engineering module for a MSc in Cybernetics and Communications. 
 
 This project was created and tested in Visual Studio 2019. 
 
